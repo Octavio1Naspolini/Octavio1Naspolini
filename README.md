@@ -3,8 +3,6 @@
 <h3 style="text-align:left; font-family: Agency FB;">📚 - Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senac Tubarão</h3>
 <h3 style="text-align:left; font-family: Agency FB;">🎓 - Sou formado em Técnico em Desenvolvimento de Sistemas no IFSC Câmpus Tubarão</h3>
 <h3 style="text-align:left; font-family: Agency FB;">💻 - Trabalho como Auxiliar Administrativo na G7 Log Transportes</h3>
-<h3 style="text-align:left; font-family: Agency FB;">🧠 - Meu foco agora é aprender mais sobre testes de software e testes automatizados</h3>
-<h3 style="text-align:left; font-family: Agency FB;">⚽ - No meu tempo livre gosto de jogar e assistir futebol, estar com meus amigos e família, assistir filmes e explorar o mundo</h3>
 
 <u><h2 style="text-align:center; font-family: Agency FB;">Connect with me</h2></u>
 <p style="text-align:center; font-family: Agency FB;">
