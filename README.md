@@ -1,8 +1,8 @@
 <h1 style="text-align:center; font-family: Agency FB;">👋 Hi, I'm Octavio 👦</h1>
 
-<h3 style="text-align:left; font-family: Agency FB;">📚 - Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senac Tubarão</h3>
-<h3 style="text-align:left; font-family: Agency FB;">🎓 - Sou formado em Técnico em Desenvolvimento de Sistemas no IFSC Câmpus Tubarão</h3>
-<h3 style="text-align:left; font-family: Agency FB;">💻 - Trabalho como Auxiliar Administrativo na G7 Log Transportes</h3>
+<h3 style="text-align:left; font-family: Agency FB;">📚 - I am a Systems Analysis and Development student at Faculdade Senac Tubarão</h3>
+<h3 style="text-align:left; font-family: Agency FB;">🎓 - I graduated in Systems Development Technician at IFSC Câmpus Tubarão</h3>
+<h3 style="text-align:left; font-family: Agency FB;">💻 - I work as an Administrative Assistant at G7 Log Transportes</h3>
 
 <u><h2 style="text-align:center; font-family: Agency FB;">Connect with me</h2></u>
 <p style="text-align:center; font-family: Agency FB;">
