@@ -6,9 +6,9 @@
 
 <u><h2 style="text-align:center; font-family: Agency FB;">Connect with me</h2></u>
 <p style="text-align:center; font-family: Agency FB;">
-  <center><a href="https://github.com/Octavio1Naspolini" target="_blank"><img src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a></center>
-  <center><a href="https://br.linkedin.com/in/octavio-naspolini-neto-5347261b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></center>
-  <center><a href="https://trello.com/u/octavionaspolinineto" target="_blank"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" target="_blank"></a></center>
+  <a href="https://github.com/Octavio1Naspolini" target="_blank"><img src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://br.linkedin.com/in/octavio-naspolini-neto-5347261b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://trello.com/u/octavionaspolinineto" target="_blank"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" target="_blank"></a>
 </p>
 
 <div align="center">
