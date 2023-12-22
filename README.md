@@ -5,11 +5,11 @@
 <h3 style="text-align:left; font-family: Agency FB;">💻 - I work as an Administrative Assistant at G7 Log Transportes</h3>
 
 <u><h2 style="text-align:center; font-family: Agency FB;">Connect with me</h2></u>
-<p style="text-align:center; font-family: Agency FB;">
+<center><p style="text-align:center; font-family: Agency FB;">
   <a href="https://github.com/Octavio1Naspolini" target="_blank"><img src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/octavio-naspolini-neto-5347261b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://trello.com/u/octavionaspolinineto" target="_blank"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" target="_blank"></a>
-</p>
+</p></center>
 
 <div align="center">
   <u><h2 style="text-align:center; font-family: Agency FB;">My activities</h2></u>
