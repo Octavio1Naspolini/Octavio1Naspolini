@@ -1,9 +1,3 @@
-<style>
-    body {
-        background-color: rgb(222, 210, 243);
-    }
-</style>
-
 <h1 style="text-align:center; font-family: Agency FB;">👋 Hi, I'm Octavio 👦</h1>
 
 <h3 style="text-align:left; font-family: Agency FB;">📚 - Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senac Tubarão</h3>
