@@ -14,7 +14,6 @@
 <div align="center">
   <u><h2 style="text-align:center; font-family: Agency FB;">My activities</h2></u>
   <a href="https://github.com/Octavio1Naspolini">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Octavio1Naspolini&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Octavio1Naspolini&layout=compact&langs_count=7&theme=gruvbox"/>
   <img height='160em' src='https://github-readme-streak-stats.herokuapp.com?user=Octavio1Naspolini&theme=gruvbox&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
 </div>
