@@ -1,7 +1,7 @@
 <h1 style="text-align:center; font-family: Agency FB;">👋 Hi, I'm Octavio 👦</h1>
 
-<h3 style="text-align:left; font-family: Agency FB;">📚 - I am a Systems Analysis and Development student at Faculdade Senac Tubarão</h3>
-<h3 style="text-align:left; font-family: Agency FB;">🎓 - I graduated in Systems Development Technician at IFSC Câmpus Tubarão</h3>
+<h3 style="text-align:left; font-family: Agency FB;">📚 - I am a Systems Analysis and Development student at SENAC</h3>
+<h3 style="text-align:left; font-family: Agency FB;">🎓 - I graduated in Systems Development Technician at IFSC</h3>
 <h3 style="text-align:left; font-family: Agency FB;">💻 - I work as an IT assistant at G7 Log Transportes</h3>
 
 <u><h2 style="text-align:center; font-family: Agency FB;">Connect with me</h2></u>
